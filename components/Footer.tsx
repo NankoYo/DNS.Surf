@@ -15,7 +15,7 @@ export default function Footer() {
       <div className="container mx-auto flex flex-col items-center py-8 sm:flex-row">
         <a
           href="/"
-          title="DNS.Surf"
+          title="EDNS"
           className="logo select-none text-xl font-black leading-none text-gray-900"
         >
           DNS
@@ -24,10 +24,10 @@ export default function Footer() {
         </a>
         <a
           className="mt-4 text-sm text-gray-500 sm:ml-4 sm:mt-0 sm:border-l sm:border-gray-200 sm:pl-4"
-          href="https://html.zone"
+          href="https://Edns.nankoyo.com"
           target="_blank"
           rel="noopener"
-          title="HTML.ZONE"
+          title="EDns"
         >
           &copy;
           {' '}
@@ -46,7 +46,7 @@ export default function Footer() {
             <span className="icon-[mdi--email] h-6 w-6"></span>
           </a>
           <a
-            href="https://t.me/htmlzone"
+            href="https://t.me/NankoYo"
             target="_blank"
             rel="noopener"
             title="Telegram"
@@ -56,7 +56,7 @@ export default function Footer() {
             <span className="icon-[mdi--telegram] h-6 w-6"></span>
           </a>
           <a
-            href="https://mt.ci"
+            href="https://blog.nankoyo.com"
             target="_blank"
             rel="noopener"
             title="Blog"
@@ -67,7 +67,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://x.com/0xKaiBi"
+            href="https://x.com/NanKoYo"
             target="_blank"
             rel="noopener"
             title="Twitter"
@@ -78,7 +78,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://miantiao.me/@chi"
+            href="/"
             target="_blank"
             rel="noopener"
             title="Mastodon"
@@ -89,7 +89,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://github.com/ccbikai/DNS.Surf"
+            href="https://github.com/NanKoYo"
             target="_blank"
             rel="noopener"
             title="GitHub"
